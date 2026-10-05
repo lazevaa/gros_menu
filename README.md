@@ -2,7 +2,7 @@
 
 A responsive digital menu website for **Gostilnica Gros**, a traditional Macedonian restaurant. Guests can browse the full food and drinks menu by category, with photos, descriptions and prices.
 
-🔗 **Live demo:** https://lazevaa.github.io/gros_menu/
+🔗 **Live demo:** (https://lazevaa.github.io/gros_menu/menu.html)
 
 ## Screenshots
 ![Menu overview](screenshots/menu.png)
