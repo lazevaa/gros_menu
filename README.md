@@ -5,8 +5,10 @@ A responsive digital menu website for **Gostilnica Gros**, a traditional Macedon
 🔗 **Live demo:** (https://lazevaa.github.io/gros_menu/menu.html)
 
 ## Screenshots
-![Menu overview](screenshots/menu.png)
-![Drinks section](screenshots/drinks.png)
+<p align="center">
+  <img src="screenshots/menu.png" alt="Menu overview" width="45%">
+  <img src="screenshots/drinks.png" alt="Drinks section" width="45%">
+</p>
 
 ## Features
 - Food menu split into 10 categories (breakfast, burgers, cold and hot starters, salads, grill, oven specialties, fish, sides, desserts)
